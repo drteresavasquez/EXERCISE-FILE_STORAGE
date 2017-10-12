@@ -39,11 +39,3 @@ reading_files = Cars.new
 # reading_files.car_make
 # reading_files.car_model
 reading_files.merged_cars
-
-# File.open("car_models.txt") do |f|
-#             #move pointer to where you want it
-#             f.seek(2, IO::SEEK_SET)
-#             #from that pointer, read 3
-#             p f.read(20)
-#         end
-
