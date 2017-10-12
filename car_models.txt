@@ -1,0 +1,8 @@
+T=Camry
+N=Altima
+F=F150
+C=Silverado
+T=Lexus
+N=Sentra
+F=Taurun
+C=Malibu
